@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/C4D16AQEp9KKOmQgLJw/profile-displaybackgroundimage-shrink_350_1400/0/1625397144267?e=1687392000&v=beta&t=6EzQ7j0k0YxepmeU3JUrJWvNwRLza-MnoZQAxkEJvJ4)
+![banner_image](https://user-images.githubusercontent.com/77397102/232412312-2f1dd946-9d1b-44a8-8852-d5a942dff7ee.png)
 
 <h1 align="center">Hi 👋, I'm Nina!</h1>
 
