@@ -21,7 +21,7 @@ I'm starting the last year of my ICT studies at Häme University of Applied Scie
 - Fun fact **I love canned pineapple chunks.** 🍍
 
 <br>
-<h3>Things that I have learned during my studies</h3>
+<h3>I have learned...</h3>
 
 - Lots of self confidence, what it comes for learning technical things
 - Basic stucture of most programming languages
