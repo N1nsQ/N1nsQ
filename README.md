@@ -21,6 +21,14 @@ I'm starting the last year of my ICT studies at Häme University of Applied Scie
 - Fun fact **I love canned pineapple chunks.** 🍍
 
 <br>
+<h3>Things that I have learned during my studies</h3>
+
+- Lots of self confidence, what it comes for learning technical things
+- Basic stucture of most programming languages
+- Software development, testing and Scrum-method
+- Full Stack development, HTML-protocol and Networking
+
+<br>
 <h3 align="left">These tools I have used in my school projects:</h3>
 
 <table>
