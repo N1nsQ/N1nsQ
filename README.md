@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nina20126&label=Profile%20views&color=0e75b6&style=flat" alt="nina20126" /> </p>
 
-I'm starting the last year of my ICT studies at Häme University of Applied Sciences. I am a combination of technical knowledge, visual mindset, and an endless passion for learning new things. From my previous profession I am a photographer and I have also studied graphic design. Nowadays I enjoy creative projects more as a hobby, but I dare to say that little creativity comes with everything I do. I applied to study ICT because of my strong interest in problem solving, web development and coding in general. I have enjoyed every moment of my studies and I feel that I have found my passion. I am currently looking for an opportunity to do my internship as a junior software developer or junior web developer. I am also looking for a subject for my thesis.
+I'm starting the last year of my ICT studies at Häme University of Applied Sciences. I am a combination of technical knowledge, visual mindset, and an endless passion for learning new things. From my previous profession I am a photographer and I have also studied graphic design. Nowadays I enjoy creative projects as a hobby, but I dare to say that little creativity comes with everything I do. I applied to study ICT because of my strong interest in problem solving, web development and coding in general. I have enjoyed every moment of my studies and I feel that I have found my passion. I am currently looking for an opportunity to do my internship as a junior software developer or junior web developer. I am also looking for a subject for my thesis.
  
 <br>
 <h3 align="left">Currently...</h3>
