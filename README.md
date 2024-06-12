@@ -1,32 +1,31 @@
 ![header-image-cropped](https://github.com/nina20126/nina20126/assets/77397102/5ff92504-a4b1-443a-9fea-24bf2868f588)
 
-<h1 align="center">Hi 👋, I'm Nina!</h1>
-<h3 align="center">Future Software Developer</h3>
+<h1 align="center">Hi 👋, I am Ninsku!</h1>
+<h3 align="center">Junior Software Engineer</h3>
 
 <img src="https://github.com/nina20126/nina20126/assets/77397102/50959b9f-4751-448b-83af-aec1bee29952" align="right" width="30%">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nina20126&label=Profile%20views&color=0e75b6&style=flat" alt="nina20126" /> </p>
-
-I'm starting the last year of my ICT studies at Häme University of Applied Sciences. I am a combination of technical knowledge, visual mindset, and an endless passion for learning new things. From my previous profession I am a photographer and I have also studied graphic design. Nowadays I enjoy creative projects as a hobby, but I dare to say that little creativity comes with everything I do. I applied to study ICT because of my strong interest in problem solving, web development and coding in general. I have enjoyed every moment of my studies and I feel that I have found my passion. I am currently looking for an opportunity to do my internship as a junior software developer or junior web developer. I am also looking for a subject for my thesis.
  
 <br>
 <h3 align="left">Currently...</h3>
 
-- I’m learning <a href="https://fitech101.aalto.fi/web-software-development/">**Web Software Development**</a> FITech course
+- Working as a Full Stack developer at <a href="https://evitec.com/">Evitec Solutions</a>
 
-- I'm learning <a href="https://fullstackopen.com/">**Full Stack Development**</a> in a MOOC course
+- Student at Häme University of Applied Sciences
+  - currently working on my thesis, and hoping to graduate soon! (at the end of 2024)
 
-- I'm looking for an opportunity to do my internship. Contact me: **nina.tulilahti@gmail.com**
+- I'm learning <a href="https://fullstackopen.com/">**Full Stack Development**</a> in a MOOC course to deepen my knowledge about React
 
+- Love photographing at my free time
+  
 - Fun fact **I love canned pineapple chunks.** 🍍
 
 <br>
-<h3>I have learned...</h3>
+<h3>My strenghts as a developer</h3>
 
-- Lots of self confidence, what it comes for learning technical things
-- Basic stucture of most programming languages
-- Software development, testing and Scrum-method
-- Full Stack development, HTML-protocol and Networking
+- .NET Core
+- React
+- SQL Server
+- Azure DevOps and Scrum
 
 <br>
 <h3 align="left">These tools I have used in my projects:</h3>
